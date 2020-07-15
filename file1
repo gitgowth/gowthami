@@ -1,4 +1,8 @@
 hii this file1  changing in local machine
 changes also done on file1 in remote server
+<<<<<<< HEAD
 another line from remote server
 
+=======
+new line from local
+>>>>>>> 2
